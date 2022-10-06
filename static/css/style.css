@@ -20,6 +20,7 @@ body {
 	color: #fff;
 	font-size: 18px;
 	text-align:center;
+	justify-content: center
 	letter-spacing:1.2px;
 	background: #3B3B3B !important;
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#3E1D6D', endColorstr='#092756',GradientType=1 );
@@ -28,7 +29,6 @@ body {
 .login { 
 	position: absolute;
     	top: 40%;
-	justify-content: center
 	margin: -150px 0 0 -150px;
 	width:500px;
 	height:400px;
